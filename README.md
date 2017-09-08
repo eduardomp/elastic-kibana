@@ -16,7 +16,8 @@ Elasticsearch in http://localhost:9200
 
 ------------
 #Contact
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-[:fa-linkedin-square: Eduardo Medeiros Pereira](http://www.linkedin.com/in/eduardo-medeiros-pereira-922a7615")
-[:fa-envelope: edu.medeirospereira@gmail.com](mailto:edu.medeirospereira@gmail.com)
-[:fa-github-square: eduardomp](https://github.com/eduardomp)
+<i class="fa fa-linkedin-square"></i> [Eduardo Medeiros Pereira](http://www.linkedin.com/in/eduardo-medeiros-pereira-922a7615")
+<i class="fa fa-envelope"></i> [edu.medeirospereira@gmail.com](mailto:edu.medeirospereira@gmail.com)
+<i class="fa fa-github-square"></i> [eduardomp](https://github.com/eduardomp)
