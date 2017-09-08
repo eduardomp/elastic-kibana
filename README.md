@@ -4,7 +4,7 @@ Docker compose file for elasticsearch and kibana, whith mounted volume for state
 
 For development environments only!
 
-# Instructions
+# How to use
 ```shell
  git clone https://github.com/eduardomp/elastic-kibana.git
  #acces the directory and
@@ -15,9 +15,20 @@ Access kibana in http://localhost:5601
 Elasticsearch in http://localhost:9200
 
 ------------
-#Contact
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<i class="fa fa-linkedin-square"></i> [Eduardo Medeiros Pereira](http://www.linkedin.com/in/eduardo-medeiros-pereira-922a7615")
-<i class="fa fa-envelope"></i> [edu.medeirospereira@gmail.com](mailto:edu.medeirospereira@gmail.com)
-<i class="fa fa-github-square"></i> [eduardomp](https://github.com/eduardomp)
+#Contact
+
+
+
+[<img src="https://imageog.flaticon.com/icons/png/512/34/34227.png?size=16x16f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/> Eduardo Medeiros Pereira](http://www.linkedin.com/in/eduardo-medeiros-pereira-922a7615)
+
+[<img src="https://imageog.flaticon.com/icons/png/512/8/8807.png?size=16x16f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/> edu.medeirospereira@gmail.com](mailto:edu.medeirospereira@gmail.com)
+
+[<img src="https://imageog.flaticon.com/icons/png/512/25/25231.png?size=16x16f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/> eduardomp](https://github.com/eduardomp)
+ 
+
+
+    
+
+
+
