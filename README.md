@@ -15,7 +15,8 @@ Access kibana in http://localhost:5601
 Elasticsearch in http://localhost:9200
 
 ------------
+#Contact
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/230px-LinkedIn_Logo.svg.png)]( www.linkedin.com/in/eduardo-medeiros-pereira-922a7615)
-
-email: edu.medeirospereira@gmail.com
+[:fa-linkedin-square: Eduardo Medeiros Pereira](http://www.linkedin.com/in/eduardo-medeiros-pereira-922a7615")
+[:fa-envelope: edu.medeirospereira@gmail.com](mailto:edu.medeirospereira@gmail.com)
+[:fa-github-square: eduardomp](https://github.com/eduardomp)
